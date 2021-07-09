@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'fastapidemoforsimilarity'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_7f3dcae21c9d471393a8ee8d3b0b8319 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_bd00cb89726d48ad8329c6077c0d5df2 }}
